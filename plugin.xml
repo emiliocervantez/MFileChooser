@@ -84,7 +84,6 @@
         
 		<source-file src="src/android/mfilechooser/res/drawable-mdpi/folder.png" target-dir="res/drawable-mdpi" />
         <source-file src="src/android/mfilechooser/res/drawable-mdpi/gif.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/ic_launcher.png" target-dir="res/drawable-mdpi" />
         <source-file src="src/android/mfilechooser/res/drawable-mdpi/ic_navigation_drawer.png" target-dir="res/drawable-mdpi" />
         <source-file src="src/android/mfilechooser/res/drawable-mdpi/jpg.png" target-dir="res/drawable-mdpi" />
         <source-file src="src/android/mfilechooser/res/drawable-mdpi/mp3.png" target-dir="res/drawable-mdpi" />
@@ -106,7 +105,6 @@
 	
         <source-file src="src/android/mfilechooser/res/drawable-xhdpi/ic_navigation_drawer.png" target-dir="res/drawable-xhdpi" />
 		
-        <source-file src="src/android/mfilechooser/res/drawable-xxhdpi/ic_launcher.png" target-dir="res/drawable-xxhdpi" />
         <source-file src="src/android/mfilechooser/res/drawable-xxhdpi/ic_navigation_drawer.png" target-dir="res/drawable-xxhdpi" />
 		
         <source-file src="src/android/mfilechooser/res/layout/drawer_list_item.xml" target-dir="res/layout" />
